@@ -1,6 +1,7 @@
 /* Calculator container */
 .container {
     width: 340px;
+    max-width: 95%;
     margin: 50px auto;
     padding: 20px;
     border-radius: 20px;
@@ -74,4 +75,36 @@ h1 {
     box-shadow:
         5px 5px 10px #a02020,
         -5px -5px 10px #ff7777;
+}
+
+/* Footer matching calculator style */
+.footer {
+    text-align: center;
+    background: linear-gradient(145deg, #1f1f1f, #3a3a3a);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin: 30px auto 0;
+    width: 340px;
+    max-width: 95%;
+    box-shadow:
+        5px 5px 10px #141414,
+        -5px -5px 10px #4e4e4e;
+    font-family: Arial, sans-serif;
+}
+
+/* Responsive adjustments */
+@media (max-width: 400px) {
+    .dispace {
+        font-size: 24px;
+        height: 50px;
+    }
+    .btn {
+        font-size: 18px;
+        padding: 15px;
+    }
+    .footer {
+        font-size: 14px;
+        padding: 12px 15px;
+    }
 }

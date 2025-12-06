@@ -26,12 +26,9 @@ CSS3 (including flex/grid and gradients)
 
 JavaScript (DOM manipulation and event handling)
 
-Live Demo: calculator-using-js-blond.vercel.app
+Live Demo: [calculator-using-js-blond.vercel.app](https://js-calculator-2025.vercel.app/))
 
-Installation:
 
-# Clone the repository
-git clone https://github.com/designersanket/calculator-using-js.git
 
 # Open index.html in your browser
 

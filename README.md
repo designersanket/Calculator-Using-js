@@ -26,12 +26,12 @@ CSS3 (including flex/grid and gradients)
 
 JavaScript (DOM manipulation and event handling)
 
-Live Demo: [calculator-using-js-blond.vercel.app](https://js-calculator-2025.vercel.app/))
+Live Demo: [calculator-using-js-blond.vercel.app](https://js-calculator-2025.vercel.app/)
 
 
 
-# Open index.html in your browser
+ Open index.html in your browser
 
 
-Author:
+# Author:
 # Sanket Jagadale ™

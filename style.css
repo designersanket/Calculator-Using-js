@@ -93,16 +93,17 @@ h1 {
     font-family: Arial, sans-serif;
 }
 
-/* Responsive adjustments */
+.footer a {
+    color: white;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+.footer a:hover {
+    color: #ffcc00;
+}
+
 @media (max-width: 400px) {
-    .dispace {
-        font-size: 24px;
-        height: 50px;
-    }
-    .btn {
-        font-size: 18px;
-        padding: 15px;
-    }
     .footer {
         font-size: 14px;
         padding: 12px 15px;
